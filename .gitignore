@@ -1,0 +1,24 @@
+# add files to ignore
+# This file is used to specify files and directories that should be ignored by Git.
+*.csv
+*.gdb
+*.zip
+*.gpkg
+*.shp
+*.dbf
+*.prj
+*.cpg
+*.lock
+*.aux.xml
+*.txt
+*.xlsx
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Python virtual environment
+venv/
+# Ignore Python bytecode files
+__pycache__/
+# Ignore settings file
+settings.py
